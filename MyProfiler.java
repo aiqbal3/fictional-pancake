@@ -2,8 +2,6 @@
  * MyProfiler.java created by Adeel Iqbal on Macbook Pro in p3b Author: Adeel Iqbal Email:
  * aiqbal3@wisc.edu
  *
- * Lecture: 001 Course: CS400 Semester: Spring 2020
- *
  * List collaborators:
  *
  * Other credits:
